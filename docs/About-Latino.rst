@@ -7,7 +7,7 @@ About Latino
 =============
 What is Latino?
 ----------------
-*Latino* is a fully functional programming language with Spanish syntax, starting in 2015.
+*Latino* is a fully functional programming language with Spanish syntax, which started in 2015.
 
 This programming language is influenced by Python and Lua.
 
@@ -21,13 +21,13 @@ Latino can be used for:
 
 Why another programming language?
 -----------------------------------
-*Latino* was born from the need to increase education on computer science in Latin America; Therefore, students, as well as professionals, can get motivated to enter the world of programming and applications development with easy-to-learn syntax.
+*Latino* was born from the need to grow computer science education in Latin America; Therefore, students, as well as professionals, can get motivated to enter the world of programming and applications development with easy-to-learn syntax.
 
 ----
 
-I code in English, why learning Latino?
+I code in English, why learn Latino?
 --------------------------------------
-There are not right answers to this question. If you enjoy experiencing new ways to program and like challenging yourself on a new adventure, then Latino will be a wonderful experience for you!
+There are no right answers to this question. If you enjoy experiencing new ways to program and like challenging yourself on a new adventure, then Latino will be a wonderful experience for you!
 
 However, if you are a native Spanish speaker or speak a similar language such as Portuguese or Italian, this could be a great opportunity to learn an easy-to-learn programming language similar to your own language.
 
@@ -38,9 +38,9 @@ Advantages of this programming language
 *Latino* is influenced by Python and Lua which provide great advantages when using.
 
 #. **Easy Syntax**:
-    * *Latino* have a very clean syntax which does not require a semicolon (;) at the end of each line of code, which is the case of several programming languages such as Java, JavaScript, C/C++, and others.
+    * *Latino* has a very clean syntax which does not require a semicolon (;) at the end of each line of code, which is the case of several programming languages such as Java, JavaScript, C/C++, and others.
 #. **High-level programming language**:
-    * This means that this language looks gramatically similar to how we read and write. However, the `Low-level languages`_ are the ones that machinees understand, such as `Binary code`_ or `Assembly language`_.
+    * This means that this language looks gramatically similar to how we read and write. However, the `Low-level languages`_ are the ones that machines understand, such as `Binary code`_ or `Assembly language`_.
 #. **Portable**:
     * When we write code in *Latino*, it can be executed on whichever other platform in an easy and simple way. As opposed to other programming languages like the case of `Visual Basic`_ that only works on MS-Windows platforms.
 #. **Open source**:
@@ -64,7 +64,7 @@ What are the plans for the future?
 
 The development of this programming language looks forward to offering tools that allow the users to create object-oriented applications, mobile applications, videogames, and more!
 
-Also as part of this language development, it looks for offering educational material of great quality, to thrive the motivation of using this language.
+Also as part of this language's development, we strive to offer educational material of great quality, and to boost the motivation of using this language.
 
 For example:
   * An accurate manual of great quality
